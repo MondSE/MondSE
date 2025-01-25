@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a Software Engineer and a Fullstack Developer</h3>
+<h3 align="left">I'm a Software Engineer and a Fullstack Developer</h3>
 
 ###
 
