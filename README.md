@@ -1,8 +1,15 @@
-![Master Banner](https://github.com/MondSE/MondSE/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Almond Tuazon</h1>
-<h3 align="center">A passionate programmer from Philippines</h3>
-<img align="right" alt="dreamer" width="400"  src="https://github.com/MondSE/MondSE/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<h1 align="left">Hello! I'm Almond Rae Tuazon</h1>
+
+###
+
+<h3 align="center">I'm a Software Engineer and a Fullstack Developer</h3>
+
+###
+
+<img align="right" alt="dreamer" width="200"  src="https://github.com/MondSE/MondSE/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 <br>
+
+###
 
 - 🌱 I’m currently learning **React,NextJs,Laravel,Claris FileMaker**
 
