@@ -14,7 +14,7 @@ I'm a Software Engineer and a Fullstack Developer I work on projects including w
 
 - 💬 Ask me about **System Development**
 
-- 📫 How to reach me [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/almond-rae-tuazon-647a2726a/)
+- 📫 Contact me at [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/almond-rae-tuazon-647a2726a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/monskiyyy/)](https://www.instagram.com/monskiyyy)
 
 ###
