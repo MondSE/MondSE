@@ -1,12 +1,16 @@
 <h1 align="left">Hello! I'm Almond Rae Tuazon</h1>
 
-### About Me
+###
 
-I'm a Software Engineer and a Fullstack Developer I work on projects including websites, web apps, mobile apps, full-stack software development, web scraping and data analytics. When I'm not writing code, I enjoy reading and learning about emerging technologies, minimalism, and startup culture but still continuous developing my skill to the evolving technology.
+<div align="left">
+<img alt="dreamer" width="200"  src="https://github.com/MondSE/MondSE/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+</div>
 
 ###
 
-<img align="right" alt="dreamer" width="200"  src="https://github.com/MondSE/MondSE/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+### About Me
+
+I'm a Software Engineer and a Fullstack Developer I work on projects including websites, web apps, mobile apps, full-stack software development, web scraping and data analytics. When I'm not writing code, I enjoy reading and learning about emerging technologies, minimalism, and startup culture but still continuous developing my skill to the evolving technology.
 
 ###
 
@@ -18,6 +22,7 @@ I'm a Software Engineer and a Fullstack Developer I work on projects including w
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/monskiyyy/)](https://www.instagram.com/monskiyyy)
 
 ###
+
 <br>
 
 ### ⚙️ Tech Stack
